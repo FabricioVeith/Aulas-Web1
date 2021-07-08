@@ -1,0 +1,42 @@
+@charset "utf8";
+
+.center{
+    background-color: white;
+    width: 200px;
+    margin: 0;
+    
+    float: right;
+    border-radius: 200px;
+    
+    
+}
+
+h1{
+    text-align: center;
+    text-shadow: 1px 1px 2px red;
+}
+
+body{
+    background-image: url(../img/ff.jpeg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    border-radius: 120px;
+    
+}
+
+p{
+    color: white;
+    text-align: justify;
+    text-indent: 15px;
+    line-height: 2;
+}
+
+li{
+    color: white;
+}
+
+cite{
+    color: white;
+}
+
