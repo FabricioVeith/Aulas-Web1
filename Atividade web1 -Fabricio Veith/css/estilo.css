@@ -1,12 +1,15 @@
 @charset "utf8";
 
 .center{
-    background-color: white;
-    width: 200px;
-    margin: 0;
-    
-    float: right;
-    border-radius: 200px;
+    background: rgba(0, 0, 0, 0.877);
+    margin-top: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    width: 50%;
+    border: 5px solid rgb(255, 255, 255);
+    padding: 50px;
+    border-radius: 25px;
     
     
 }
