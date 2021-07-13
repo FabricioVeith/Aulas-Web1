@@ -1,0 +1,45 @@
+@charset "utf8";
+
+.center{
+    background: rgba(0, 0, 0, 0.877);
+    margin-top: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    width: 50%;
+    border: 5px solid rgb(255, 255, 255);
+    padding: 50px;
+    border-radius: 25px;
+    
+    
+}
+
+h1{
+    text-align: center;
+    text-shadow: 1px 1px 2px red;
+}
+
+body{
+    background-image: url(../img/ff.jpeg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    border-radius: 120px;
+    
+}
+
+p{
+    color: white;
+    text-align: justify;
+    text-indent: 15px;
+    line-height: 2;
+}
+
+li{
+    color: white;
+}
+
+cite{
+    color: white;
+}
+
